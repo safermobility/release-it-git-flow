@@ -1,6 +1,6 @@
 {
   "name": "release-it-git-flow",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A release-it plugin that does git-flow operations",
   "main": "index.js",
   "peerDependencies": {
@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "release-it": "^19.2.0"
+  },
+  "scripts": {
+    "test": "echo 'TODO'"
   }
 }
