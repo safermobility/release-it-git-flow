@@ -1,5 +1,5 @@
 {
-  "name": "release-it-git-flow",
+  "name": "@safermobility/release-it-git-flow",
   "version": "0.1.2",
   "description": "A release-it plugin that does git-flow operations",
   "main": "index.js",
