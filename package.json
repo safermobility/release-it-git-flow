@@ -2,6 +2,14 @@
   "name": "@safermobility/release-it-git-flow",
   "version": "0.1.2",
   "description": "A release-it plugin that does git-flow operations",
+  "keywords": [
+    "release",
+    "release-it",
+    "release-it-plugin",
+    "plugin",
+    "git-flow",
+    "gitflow"
+  ],
   "main": "index.js",
   "peerDependencies": {
     "release-it": "^19.2.0"
