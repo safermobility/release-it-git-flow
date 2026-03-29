@@ -1,6 +1,6 @@
 import { Plugin } from 'release-it';
-import { BranchMissingError, BranchNotUpToDateError, ConfigConflictError } from './lib/errors';
-import prompts from './lib/prompts';
+import { BranchMissingError, BranchNotUpToDateError, ConfigConflictError } from './lib/errors.js';
+import prompts from './lib/prompts.js';
 
 export const defaults = {
     remoteName: 'origin',
