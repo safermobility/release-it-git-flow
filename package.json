@@ -1,6 +1,6 @@
 {
   "name": "@safermobility/release-it-git-flow",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "A release-it plugin that does git-flow operations",
   "repository": {
     "url": "https://github.com/safermobility/release-it-git-flow"
